@@ -1,6 +1,6 @@
 package variables;
 
-public class C01 {
+public class C01_Primitive {
     public static void main(String[] args) {
 
         //Isminizin ilk harfini char data tipinde yazin
